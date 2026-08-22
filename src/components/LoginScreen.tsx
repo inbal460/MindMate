@@ -170,7 +170,7 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({ onLogin, initialProfil
               <option value="ח׳">כיתה ח׳</option>
               <option value="ט׳">כיתה ט׳ </option>
               <option value="י׳">כיתה י׳</option>
-              <option value='י"א'>כיתה יא׳</option>
+              <option value='י"א'>כיתה י"א</option>
               <option value='י"ב'>כיתה י"ב</option>
             </select>
           </div>
