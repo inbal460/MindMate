@@ -1,0 +1,11 @@
+{
+  "name": "MindMate",
+  "description": "עוזר חכם מונגש לבית הספר: ניהול מערכת שעות וציוד מותאם, ניווט אינטראקטיבי בסגנון Waze, חיבור חברתי בהפסקות וסיכום הודעות מורים עם AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
