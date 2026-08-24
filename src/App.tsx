@@ -534,7 +534,7 @@ export default function App() {
           <span>MindMate • AI-powered assistant for neurodiverse learners</span>
         </div>
         <p className="text-[11px] text-slate-400">
-          נבחר לתחרות Intel® AI Global Impact Festival 2026 🏆 • מותאם לטלפון נייד
+          Participant in the Intel® AI Global Impact Festival 2026🏆 • מותאם לטלפון נייד
         </p>
       </footer>
     </div>
