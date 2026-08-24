@@ -72,7 +72,7 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({ onLogin, initialProfil
           {/* Intel badge */}
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-50 text-blue-900 text-xs font-bold border border-blue-200 shadow-2xs mt-1">
             <Trophy className="w-3.5 h-3.5 text-blue-600 shrink-0" />
-            <span>Participant in the Intel® AI Global Impact Festival 2026</span>
+            <span>Intel® AI Global Impact Festival 2026 Participant</span>
           </div>
         </div>
 
