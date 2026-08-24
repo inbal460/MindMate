@@ -531,10 +531,10 @@ export default function App() {
       <footer className="max-w-7xl mx-auto px-4 sm:px-6 pt-8 pb-4 text-center text-xs text-slate-500 space-y-2 border-t border-slate-200/60 mt-10">
         <div className="flex items-center justify-center gap-2 font-bold text-indigo-700">
           <Brain className="w-4 h-4" />
-          <span>MindMate - עוזר חכם מונגש לבית הספר</span>
+          <span>MindMate • AI-powered assistant for neurodiverse learners</span>
         </div>
         <p className="text-[11px] text-slate-400">
-          נבחר לייצג בתחרות הבינלאומית היוקרתית של Intel AI Global 🏆 • מותאם אישית לשימוש בטלפון נייד
+          נבחר לתחרות Intel® AI Global Impact Festival 2026 🏆 • מותאם אישית לשימוש בטלפון נייד
         </p>
       </footer>
     </div>
