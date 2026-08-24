@@ -457,7 +457,7 @@ export const Header: React.FC<HeaderProps> = ({
                   <span>נבחר לתחרות Intel® AI Global Impact Festival 2026 🏆</span>
                 </div>
                 <p className="text-[11px] text-slate-400 font-semibold">
-                  MindMate • עוזר חכם מונגש לבית הספר
+                  MindMate • AI-powered assistant for neurodiverse learners
                 </p>
               </div>
             </motion.div>
