@@ -67,7 +67,7 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({ onLogin, initialProfil
               גרסה 2.0
             </span>
           </div>
-          <p className="text-sm font-semibold text-slate-500">עוזר חכם מונגש לבית הספר</p>
+          <p className="text-sm font-semibold text-slate-500">AI-powered assistant for neurodiverse learners</p>
 
           {/* Intel badge */}
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-50 text-blue-900 text-xs font-bold border border-blue-200 shadow-2xs mt-1">
