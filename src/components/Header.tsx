@@ -454,7 +454,7 @@ export const Header: React.FC<HeaderProps> = ({
               <div className="mt-5 pt-3 border-t border-slate-100 flex flex-col sm:flex-row items-center justify-between gap-2 text-center text-xs">
                 <div className="flex items-center gap-1.5 text-blue-700 bg-blue-50 px-3 py-1.5 rounded-xl border border-blue-200 font-bold">
                   <Trophy className="w-4 h-4" />
-                  <span>Participant in the Intel® AI Global Impact Festival 2026</span>
+                  <span>Intel® AI Global Impact Festival 2026 Participant</span>
                 </div>
                 <p className="text-[11px] text-slate-400 font-semibold">
                   MindMate • AI-powered assistant for neurodiverse learners
